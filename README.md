@@ -84,7 +84,7 @@ def generate_image(
 generate_image(
     project_id='your-project-id',  # Replace with your project ID
     location='us-west1',  # Replace with your Google Cloud region
-    prompt='Create an image of a cricket ground in the heart of Los Angeles',
+    prompt='Create a picture of the Eiffel Tower in Paris',
 )
 ```
 
